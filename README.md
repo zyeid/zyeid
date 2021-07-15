@@ -1,4 +1,4 @@
-Hi! I’m Zied. I’m now an Assistant Professor in Department of Computer Science, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by Prof. Yiu-ming Cheung and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by Prof. Yuan Yan Tang. I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, deep learning and theoretical models and algorithms.
+Hi! I’m Zied. I’m now a Visiting Assistant Professor in Department of Electronics, Higher Institute of Applied Science and Technology of Sousse (ISSATSo), Sousse University. I received my PhD degree on Electrical Engineering from the The National Engineering School of Sousse in 2019 and received my master degree in  Microelectronics Devices and Systems Design from the Faculty of Sciences of Monastir in 2012. My research interest includes watermaking, artificial intelligence, machine learning, deep learning and FPGA.
 
 <!---
 👋 Hi, I’m @zyeid
